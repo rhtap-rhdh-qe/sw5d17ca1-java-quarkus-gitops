@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: sw5d17ca1-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/sw5d17ca1-java-quarkus
